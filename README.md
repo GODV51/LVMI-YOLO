@@ -11,3 +11,5 @@ Enhancing Real-Time Object Detection in Low-Light and Complex Scenarios
   The detailed code for the detector head improvements is located in `YOLOV11V12/ultralytics-yolo11-main/ultralytics/nn/extra_modules/head.py`, where you can find the full implementation of this code.
   For the detailed implementation and workflow of the algorithm, please refer to the code and paper provided above.
 # For dependency packages and installation requirements, refer to the model's README file.
+# Citation
+Dear readers, this code is closely related to the paper I submitted to The Visual Computer journal. Please cite our paper in your publications if our work assists your research.
