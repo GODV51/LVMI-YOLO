@@ -12,4 +12,4 @@ Enhancing Real-Time Object Detection in Low-Light and Complex Scenarios
   For the detailed implementation and workflow of the algorithm, please refer to the code and paper provided above.
 # For dependency packages and installation requirements, refer to the model's README file.
 # Citation
-Dear readers, this code is closely related to the paper I submitted to The Visual Computer journal. Please cite our paper in your publications if our work assists your research.
+Dear readers, this code is closely related to the paper "LVMI-YOLO: Enhancing Real-Time Object Detection in Low-Light and Complex Scenarios" I submitted to The Visual Computer journal. Please cite our paper in your publications if our work assists your research.
